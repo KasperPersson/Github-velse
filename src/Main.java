@@ -8,6 +8,11 @@ public class Main {
 
         System.out.println("Hej Kasper, jeg håber du har nydt din ferie");
 
+        System.out.println("Kasper er det bedste far i verden");
+        System.out.println("Caffe");
+        System.out.println("Coffe");
+        System.out.println("HI");
+
 
         System.out.println("Vores undervisere skal virkelig øve sig i deres skriftlige formuleringer :))))");
         System.out.println("Det ville være dejligt for os studerende :))))");
