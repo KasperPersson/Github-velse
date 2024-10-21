@@ -15,7 +15,6 @@ public class Main {
         System.out.println("MERGE PLEASE");
         System.out.println("MERGE");
 
-
         System.out.println("Vores undervisere skal virkelig øve sig i deres skriftlige formuleringer :))))");
         System.out.println("Det ville være dejligt for os studerende :))))");
 
