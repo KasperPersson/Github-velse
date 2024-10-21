@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("Kasper er det bedste far i verden");
         System.out.println("Caffe");
-        System.out.println("Coffee");
+        System.out.println("Coffe");
 
 
         System.out.println("Vores undervisere skal virkelig øve sig i deres skriftlige formuleringer :))))");
