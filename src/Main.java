@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Hej Kasper, jeg håber du har nydt din ferie");
 
         System.out.println("Kasper er det bedste far i verden");
+        System.out.println("Caffe");
+        System.out.println("Coffee");
 
 
         for (int i = 1; i <= 5; i++) {
