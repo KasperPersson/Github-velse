@@ -1,2 +1,3 @@
-public class HejJack{
+public class HejJack {
+
 }
