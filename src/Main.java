@@ -10,6 +10,7 @@ public class Main {
 
 
         System.out.println("Vores undervisere skal virkelig øve sig i deres skriftlige formuleringer :))))");
+        System.out.println("Det ville være dejligt for os studerende :))))");
 
 
         for (int i = 1; i <= 5; i++) {
